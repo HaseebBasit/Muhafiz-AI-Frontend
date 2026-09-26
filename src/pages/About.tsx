@@ -58,22 +58,23 @@ const steps = [
 
 const team = [
   {
-    name: "Muhammad Asim",
-    role: "Frontend Developer",
-    bio: "Builds the interfaces developers use every day to triage findings and ship secure code faster.",
-    photo: asimPhoto,
+      name: "Haseeb Basit",
+    role: "Team Lead & Backend Developer",
+    bio: "Leads the team and architects the scanning engine and APIs that power MUHAFIZ AI.",
+    photo: haseebPhoto,
+    
   },
   {
-    name: "Tahreena Tashfeen",
+    name: "Tamreena Tashfeen",
     role: "Documentation & Presentation Lead",
     bio: "Turns the team's technical work into clear docs, reports, and presentations for every audience.",
     photo: tahreenaPhoto,
   },
   {
-    name: "Haseeb Basit",
-    role: "Team Lead & Backend Developer",
-    bio: "Leads the team and architects the scanning engine and APIs that power MUHAFIZ AI.",
-    photo: haseebPhoto,
+  name: "Muhammad Asim",
+    role: "Frontend Developer",
+    bio: "Builds the interfaces developers use every day to triage findings and ship secure code faster.",
+    photo: asimPhoto,
   },
   {
     name: "Shabnam Sultaan",
