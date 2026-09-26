@@ -56,13 +56,13 @@ const steps = [
   { title: "Apply Auto-Fix", description: "Accept AI-suggested secure replacements with a single click." },
 ];
 
+
 const team = [
   {
-      name: "Haseeb Basit",
+    name: "Haseeb Basit",
     role: "Team Lead & Backend Developer",
     bio: "Leads the team and architects the scanning engine and APIs that power MUHAFIZ AI.",
     photo: haseebPhoto,
-    
   },
   {
     name: "Tamreena Tashfeen",
@@ -71,7 +71,7 @@ const team = [
     photo: tahreenaPhoto,
   },
   {
-  name: "Muhammad Asim",
+    name: "Muhammad Asim",
     role: "Frontend Developer",
     bio: "Builds the interfaces developers use every day to triage findings and ship secure code faster.",
     photo: asimPhoto,
@@ -83,6 +83,8 @@ const team = [
     photo: shabnamPhoto,
   },
 ];
+
+
 
 export default function About() {
   return (
